@@ -1,7 +1,7 @@
-#include "everything.h"
-#include "refresh.h"
-#include "tokenize.h"
-#include "execution.h"
+#include "headers/everything.h"
+#include "headers/refresh.h"
+#include "headers/tokenize.h"
+#include "headers/execution.h"
 char home[100];
 void describe(char **a){
 	int i;

@@ -1,6 +1,6 @@
-#include "everything.h"
+#include "headers/everything.h"
 #include<fcntl.h>
-#include "tokenize.h"
+#include "headers/tokenize.h"
 //char home11[100]="/home/";
 void free_shit(char **a){
 	int i;
